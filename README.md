@@ -23,7 +23,7 @@
 · ppt是临时图片修正文件
 
 ## 玩的开心！
-- 图片展示：
-![image](https://github.com/BB-Fly/Fight-Nian-/blob/main/image1.jpg)
-![image](https://github.com/BB-Fly/Fight-Nian-/blob/main/image2.jpg)
-![image](https://github.com/BB-Fly/Fight-Nian-/blob/main/image3.jpg)
+- 图片展示:
+
+<img src="https://github.com/BB-Fly/Fight-Nian-/blob/main/image1.jpg" width="375"> <img src="https://github.com/BB-Fly/Fight-Nian-/blob/main/image2.jpg" width="375">
+<img src="https://github.com/BB-Fly/Fight-Nian-/blob/main/image3.jpg" width="375">
